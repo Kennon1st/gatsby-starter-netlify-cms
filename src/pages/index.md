@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Titling A New Coffee Page
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: TESTING OUT THE HEADING
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
